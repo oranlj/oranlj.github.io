@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>居里的博客 Remus&#39;blog</title>
+    <link>http://juliblogs.xyz/</link>
+    
+    <atom:link href="http://juliblogs.xyz/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>A free soul</description>
+    <pubDate>Sat, 14 Aug 2021 09:25:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>wordpress搭建教程</title>
+      <link>http://juliblogs.xyz/2021/08/14/wordpress/</link>
+      <guid>http://juliblogs.xyz/2021/08/14/wordpress/</guid>
+      <pubDate>Sat, 14 Aug 2021 08:10:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/37896471&quot;&gt;WordPress搭建教程：手把手教你搭建WordPress博客 - 知乎 (zhihu.com)&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/37896471">WordPress搭建教程：手把手教你搭建WordPress博客 - 知乎 (zhihu.com)</a></p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/">网站相关</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/14/wordpress/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>祝各位七夕快乐</title>
+      <link>http://juliblogs.xyz/2021/08/14/qixikuaile/</link>
+      <guid>http://juliblogs.xyz/2021/08/14/qixikuaile/</guid>
+      <pubDate>Fri, 13 Aug 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;strong&gt;祝各位七夕快乐&lt;/strong&gt; ✨&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;也祝我生日快乐 ✨&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HAPPY CHINESE VALENTINE’S DAY&lt;/strong&gt; 🎆&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;ht</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><strong>祝各位七夕快乐</strong> ✨</p><p><strong>也祝我生日快乐 ✨</strong></p><p><strong>HAPPY CHINESE VALENTINE’S DAY</strong> 🎆</p><p><img src="https://i.loli.net/2021/08/13/FGHc9nIJRMwzNY3.png" alt="image.png"></p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E8%8A%82%E6%97%A5/">节日</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/14/qixikuaile/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>优化next主题</title>
+      <link>http://juliblogs.xyz/2021/08/13/some-wensites/</link>
+      <guid>http://juliblogs.xyz/2021/08/13/some-wensites/</guid>
+      <pubDate>Fri, 13 Aug 2021 10:18:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;主体&quot;&gt;&lt;a href=&quot;#主体&quot; class=&quot;headerlink&quot; title=&quot;主体&quot;&gt;&lt;/a&gt;主体&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/106060640&quot;&gt;个人博客第8篇——优化主题（持续更新） -</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="主体"><a href="#主体" class="headerlink" title="主体"></a>主体</h1><p><a href="https://zhuanlan.zhihu.com/p/106060640">个人博客第8篇——优化主题（持续更新） - 知乎 (zhihu.com)</a></p><p><a href="https://blog.csdn.net/nightmare_dimple/article/details/86661502?utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.baidujsUnder6&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.baidujsUnder6">Hexo博客优化之Next主题美化_huangpiao-CSDN博客_hexo next</a></p><h1 id="细节"><a href="#细节" class="headerlink" title="细节"></a>细节</h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p><a href="https://www.jianshu.com/p/3ff20be8574c">Hexo-Next-主题优化(一) - 简书 (jianshu.com)</a></p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p><a href="https://www.jianshu.com/p/428244cd2caa">Hexo-Next-主题优化(二) - 简书 (jianshu.com)</a></p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p><a href="https://www.jianshu.com/p/d23d67d318c7">Hexo-Next-主题优化(三) - 简书 (jianshu.com)</a></p><h2 id="4"><a href="#4" class="headerlink" title="4"></a>4</h2><p><a href="https://www.jianshu.com/p/4ef35521fee9">文章正在审核中… - 简书 (jianshu.com)</a></p><h1 id="网易云外链"><a href="#网易云外链" class="headerlink" title="网易云外链"></a>网易云外链</h1><p><a href="https://blog.csdn.net/Awt_FuDongLai/article/details/107916744">hexo笔记十五：next主题添加网易云外链_Awt_FuDongLai的博客-CSDN博客</a></p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/">网站相关</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/13/some-wensites/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>震惊！没想到。。。。</title>
+      <link>http://juliblogs.xyz/2021/08/13/hahaha/</link>
+      <guid>http://juliblogs.xyz/2021/08/13/hahaha/</guid>
+      <pubDate>Fri, 13 Aug 2021 07:22:15 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;震惊！看到这篇博客的人居然都是智商低于50的傻子！太神奇了！！&lt;/p&gt;
+&lt;p&gt;其中一位姜姓女士看完这篇博客后居然产生了想打人的冲动！太奇妙了！&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>震惊！看到这篇博客的人居然都是智商低于50的傻子！太神奇了！！</p><p>其中一位姜姓女士看完这篇博客后居然产生了想打人的冲动！太奇妙了！</p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E8%83%A1%E4%B9%B1%E5%86%99%E7%9A%84/">胡乱写的</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/13/hahaha/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>20210813 日记</title>
+      <link>http://juliblogs.xyz/2021/08/13/20210813-dairy/</link>
+      <guid>http://juliblogs.xyz/2021/08/13/20210813-dairy/</guid>
+      <pubDate>Fri, 13 Aug 2021 07:12:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt; 2021-08-13 下午3点，终于完成了博客主题的最后优化！Cheers!可以享受劳动成果了😀&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p> 2021-08-13 下午3点，终于完成了博客主题的最后优化！Cheers!可以享受劳动成果了😀</p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/13/20210813-dairy/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2021-8-12 日记</title>
+      <link>http://juliblogs.xyz/2021/08/12/2021-8-12/</link>
+      <guid>http://juliblogs.xyz/2021/08/12/2021-8-12/</guid>
+      <pubDate>Thu, 12 Aug 2021 13:56:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;忙碌的一天啊，终于能抽出时间写一个正常的博客了&lt;/p&gt;
+&lt;p&gt;好不容易搭建完成了&lt;/p&gt;
+&lt;p&gt;A BUSY DAY!!!&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>忙碌的一天啊，终于能抽出时间写一个正常的博客了</p><p>好不容易搭建完成了</p><p>A BUSY DAY!!!</p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/12/2021-8-12/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
