@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://juliblogs.xyz/2021/08/14/qixikuaile/</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://juliblogs.xyz/resources/index.html</loc>
     
     <lastmod>2021-08-15</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://juliblogs.xyz/2021/08/14/wordpress/</loc>
     
     <lastmod>2021-08-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://juliblogs.xyz/2021/08/14/qixikuaile/</loc>
-    
-    <lastmod>2021-08-13</lastmod>
     
   </url>
   
@@ -90,7 +90,7 @@
   </url>
   
   <url>
-    <loc>http://juliblogs.xyz/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://juliblogs.xyz/categories/%E8%8A%82%E6%97%A5/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -104,7 +104,7 @@
   </url>
   
   <url>
-    <loc>http://juliblogs.xyz/categories/%E8%8A%82%E6%97%A5/</loc>
+    <loc>http://juliblogs.xyz/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
