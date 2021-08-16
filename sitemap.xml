@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oranlj.gitee.io/baidu_verify_code-FkJ7YEJ5DD.html</loc>
+    <loc>https://oranlj.gitee.io/about/index.html</loc>
     
     <lastmod>2021-08-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oranlj.gitee.io/about/index.html</loc>
+    <loc>https://oranlj.gitee.io/baidu_verify_code-FkJ7YEJ5DD.html</loc>
     
     <lastmod>2021-08-16</lastmod>
     
@@ -111,6 +111,13 @@
   </url>
   
   <url>
+    <loc>https://oranlj.gitee.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oranlj.gitee.io/categories/%E8%8A%82%E6%97%A5/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -119,13 +126,6 @@
   
   <url>
     <loc>https://oranlj.gitee.io/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oranlj.gitee.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
