@@ -9,8 +9,34 @@
     <atom:link href="http://juliblogs.xyz/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A free soul</description>
-    <pubDate>Sun, 15 Aug 2021 14:38:04 GMT</pubDate>
+    <pubDate>Mon, 16 Aug 2021 07:47:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>请访问淡墨苑主博客网站</title>
+      <link>http://juliblogs.xyz/2021/08/16/zhublog/</link>
+      <guid>http://juliblogs.xyz/2021/08/16/zhublog/</guid>
+      <pubDate>Mon, 16 Aug 2021 07:44:30 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本博客为淡墨苑博客副网站，以hexo为框架，是静态博客网站。&lt;/p&gt;
+&lt;p&gt;本站更新内容与速度不及淡墨苑主站–动态博客网站。&lt;/p&gt;
+&lt;p&gt;淡墨苑主站用WordPress搭建，功能更加多样，地址 &lt;a href=&quot;https://juliblogs.xyz/&quot;&gt;https:</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>本博客为淡墨苑博客副网站，以hexo为框架，是静态博客网站。</p><p>本站更新内容与速度不及淡墨苑主站–动态博客网站。</p><p>淡墨苑主站用WordPress搭建，功能更加多样，地址 <a href="https://juliblogs.xyz/">https://juliblogs.xyz</a></p>]]></content:encoded>
+      
+      
+      <category domain="http://juliblogs.xyz/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/">网站相关</category>
+      
+      
+      
+      <comments>http://juliblogs.xyz/2021/08/16/zhublog/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>初中语文笔记--方法本</title>
