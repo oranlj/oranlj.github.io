@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>请访问淡墨苑主博客网站</title>
-      <link href="/2021/08/16/zhublog/"/>
-      <url>/2021/08/16/zhublog/</url>
+      <title>2021/8/17 日记</title>
+      <link href="/2021/08/17/210817dairy/"/>
+      <url>/2021/08/17/210817dairy/</url>
       
-        <content type="html"><![CDATA[<p>本博客为淡墨苑博客副网站，以hexo为框架，是静态博客网站。</p><p>本站更新内容与速度不及淡墨苑主站–动态博客网站。</p><p>淡墨苑主站用WordPress搭建，功能更加多样，地址 <a href="https://juliblogs.xyz/">https://juliblogs.xyz</a></p>]]></content>
+        <content type="html"><![CDATA[<p>说一说我折腾的经历吧。</p><p>一开始，我使用github pages+hexo+自购域名搭建博客，总体感觉舒适。但由于github pages国内访问速度太慢，所以改用国内的源码托管平台gitee pages+hexo来搭建博客，但发现gitee pages不支持自定义域名，在两难的情况下，我就干脆放弃hexo，自购vps搭建wordpress博客，一开始买了美国洛杉矶的机子，发现速度也不是非常理想，之后就发现了阿里云学生机，一年不到100元配置也还说得过去，于是果断下单，之后折腾折腾发现解析到国内服务器的域名必需备案，于是准备好了一切备案材料准备备案，结果被驳回–未满18周岁（本人14），我不知道之所以需要备案因为服务器而非域名，于是我又买花￥8买了个国外域名，解析到阿里云，结果还是被工信部的Page给拦截了。。好不容易向阿里云申请了退款，本来准备再买个西雅图的机子（速度相对快，但是了解了下老美的vps很不稳定（GFW……容易被墙……）于是干脆一分钱不花就用gitte pages，不搞自定义域名算了。。。。</p><p>总结一下：<strong>干了一大堆事之后又回到了起点</strong>😂</p>]]></content>
       
       
       <categories>
           
-          <category> 网站相关 </category>
+          <category> 日记 </category>
           
       </categories>
       
