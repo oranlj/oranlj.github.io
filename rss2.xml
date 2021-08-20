@@ -9,8 +9,49 @@
     <atom:link href="https://shallowink.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A free soul</description>
-    <pubDate>Thu, 19 Aug 2021 14:10:24 GMT</pubDate>
+    <pubDate>Fri, 20 Aug 2021 08:40:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如果你的访问速度特别慢......</title>
+      <link>https://shallowink.top/2021/08/20/newblog/</link>
+      <guid>https://shallowink.top/2021/08/20/newblog/</guid>
+      <pubDate>Fri, 20 Aug 2021 08:38:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt; 请在浏览器最上方搜索框里查看你的域名。如果来自oranlj.gitee.io，请忽略这篇文章。否则必读。&lt;/p&gt;
+&lt;p&gt;本站有两个网址：1.shallowink.top 2.oranlj.gitee.io&lt;/p&gt;
+&lt;p&gt;这两个网站内容完全一样，但是第二个网址的速度更快！快</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p> 请在浏览器最上方搜索框里查看你的域名。如果来自oranlj.gitee.io，请忽略这篇文章。否则必读。</p><p>本站有两个网址：1.shallowink.top 2.oranlj.gitee.io</p><p>这两个网站内容完全一样，但是第二个网址的速度更快！快得多！第一个网站部署在国外的Github上，第二个部署在国内的gitee上！如果你的网址是shallowink.top，而且访问速度特别慢，请切换到oranlj.gitee.io！！</p>]]></content:encoded>
+      
+      
+      <category domain="https://shallowink.top/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/">网站相关</category>
+      
+      
+      
+      <comments>https://shallowink.top/2021/08/20/newblog/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>TH3</title>
+      <link>https://shallowink.top/2021/08/19/TH3/</link>
+      <guid>https://shallowink.top/2021/08/19/TH3/</guid>
+      <pubDate>Thu, 19 Aug 2021 14:23:08 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>https://shallowink.top/2021/08/19/TH3/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>《The Hobbit 2 霍比特人 2》观影随写</title>
@@ -218,33 +259,6 @@
       
       
       <comments>https://shallowink.top/2021/08/13/20210813-dairy/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2021-8-12 日记</title>
-      <link>https://shallowink.top/2021/08/12/2021-8-12/</link>
-      <guid>https://shallowink.top/2021/08/12/2021-8-12/</guid>
-      <pubDate>Thu, 12 Aug 2021 13:56:38 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;忙碌的一天啊，终于能抽出时间写一个正常的博客了&lt;/p&gt;
-&lt;p&gt;好不容易搭建完成了&lt;/p&gt;
-&lt;p&gt;A BUSY DAY!!!&lt;/p&gt;
-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p>忙碌的一天啊，终于能抽出时间写一个正常的博客了</p><p>好不容易搭建完成了</p><p>A BUSY DAY!!!</p>]]></content:encoded>
-      
-      
-      <category domain="https://shallowink.top/categories/%E6%97%A5%E8%AE%B0/">日记</category>
-      
-      
-      
-      <comments>https://shallowink.top/2021/08/12/2021-8-12/#disqus_thread</comments>
       
     </item>
     
